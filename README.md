@@ -1,1 +1,0 @@
-# bootstrap-activity-1
